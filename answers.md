@@ -67,3 +67,17 @@ To https://github.com/Apache0ne/git-lab.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 ### Answer 10:
+No , becasue I didnt fetch newest remote or pull
+### Answer 11:
+To https://github.com/Apache0ne/git-lab.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Apache0ne/git-lab.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+### Answers 12:
+Yes, changes are made for my local copy.
+### Answers 13:
+.  ..  git-lab  git-lab2
+### Answer 14: 
