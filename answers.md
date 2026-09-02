@@ -76,8 +76,8 @@ hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. If you want to integrate the remote changes,
 hint: use 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-### Answers 12:
+### Answer 12:
 Yes, changes are made for my local copy.
-### Answers 13:
+### Answer 13:
 .  ..  git-lab  git-lab2
-### Answer 14: 
+
